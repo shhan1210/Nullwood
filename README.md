@@ -1,8 +1,5 @@
 # Nullwood
-
 From the mind of artist SHHAN, NULLWOOD is a generative installation rooted in the philosophy of **reincarnation and the essential journey of the soul**. 
-
----
 
 ## Access Site
 Visit the live web installation here: **[https://shhan1210.github.io/nullwoodworld/]**
